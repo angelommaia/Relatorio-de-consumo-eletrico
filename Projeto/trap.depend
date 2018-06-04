@@ -1,0 +1,135 @@
+# depslib dependency file v1.0
+1525277445 source:c:\users\eu\desktop\aplic\trap\main.c
+	"metodos_numericos.h"
+	"tensao_csv.h"
+
+1525277429 c:\users\eu\desktop\aplic\trap\metodos_numericos.h
+
+1525119924 source:c:\users\eu\desktop\aplic\trap\metodo_trapezio.c
+	"metodos_numericos.h"
+
+1525277445 c:\users\eu\desktop\aplic\trap\tensao_csv.h
+	<stdio.h>
+	<stdlib.h>
+
+1525277381 source:c:\users\eu\desktop\aplic\trap\metodo_csv.c
+	"tensao_csv.h"
+
+1526053123 source:c:\users\aluno\desktop\apagar\trap\metodo_trapezio.c
+	"metodos_numericos.h"
+
+1526053326 c:\users\aluno\desktop\apagar\trap\metodos_numericos.h
+	<stdio.h>
+	<stdlib.h>
+
+1526058426 source:c:\users\aluno\desktop\apagar\trap\metodo_csv.c
+	"tensao_csv.h"
+
+1526054399 c:\users\aluno\desktop\apagar\trap\tensao_csv.h
+	<stdio.h>
+	<stdlib.h>
+
+1526054399 source:c:\users\aluno\desktop\apagar\trap\main.c
+	"metodos_numericos.h"
+	"tensao_csv.h"
+
+1527433020 source:c:\users\eu\desktop\trap\main.c
+	"metodos_numericos.h"
+	"tensao_csv.h"
+
+1527269866 c:\users\eu\desktop\trap\metodos_numericos.h
+	<stdio.h>
+	<stdlib.h>
+
+1527434839 c:\users\eu\desktop\trap\tensao_csv.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1527437629 source:c:\users\eu\desktop\trap\metodo_trapezio.c
+	"metodos_numericos.h"
+
+1527433291 source:c:\users\eu\desktop\trap\metodo_csv.c
+	"metodos_numericos.h"
+	"tensao_csv.h"
+
+1527433291 source:c:\users\eu\desktop\trap\metodo_relatorio.c
+	"tensao_csv.h"
+	"metodos_numericos.h"
+	<math.h>
+
+1526940412 source:c:\users\andre a\desktop\trap\metodo_relatorio.c
+	"tensao_csv.h"
+	"metodos_numericos.h"
+	<math.h>
+
+1526940400 c:\users\andre a\desktop\trap\tensao_csv.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1526597815 c:\users\andre a\desktop\trap\metodos_numericos.h
+	<stdio.h>
+	<stdlib.h>
+
+1526914197 source:c:\users\andre a\desktop\trap\metodo_trapezio.c
+	"metodos_numericos.h"
+
+1526938469 source:c:\users\andre a\desktop\trap\main.c
+	"metodos_numericos.h"
+	"tensao_csv.h"
+
+1526939401 source:c:\users\andre a\desktop\trap\metodo_csv.c
+	"tensao_csv.h"
+	"metodos_numericos.h"
+
+1527433020 source:c:\users\eu\desktop\pratica_3\main.c
+	"metodos_numericos.h"
+	"tensao_csv.h"
+
+1527269866 c:\users\eu\desktop\pratica_3\metodos_numericos.h
+	<stdio.h>
+	<stdlib.h>
+
+1527434839 c:\users\eu\desktop\pratica_3\tensao_csv.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1527433291 source:c:\users\eu\desktop\pratica_3\metodo_csv.c
+	"metodos_numericos.h"
+	"tensao_csv.h"
+
+1527433291 source:c:\users\eu\desktop\pratica_3\metodo_relatorio.c
+	"tensao_csv.h"
+	"metodos_numericos.h"
+	<math.h>
+
+1527449574 source:c:\users\eu\desktop\pratica_3\metodo_trapezio.c
+	"metodos_numericos.h"
+
+1527433020 source:c:\users\eu\desktop\pratica_3\projeto\main.c
+	"metodos_numericos.h"
+	"tensao_csv.h"
+
+1527269866 c:\users\eu\desktop\pratica_3\projeto\metodos_numericos.h
+	<stdio.h>
+	<stdlib.h>
+
+1527434839 c:\users\eu\desktop\pratica_3\projeto\tensao_csv.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1527433291 source:c:\users\eu\desktop\pratica_3\projeto\metodo_csv.c
+	"metodos_numericos.h"
+	"tensao_csv.h"
+
+1527433291 source:c:\users\eu\desktop\pratica_3\projeto\metodo_relatorio.c
+	"tensao_csv.h"
+	"metodos_numericos.h"
+	<math.h>
+
+1527536353 source:c:\users\eu\desktop\pratica_3\projeto\metodo_trapezio.c
+	"metodos_numericos.h"
+
